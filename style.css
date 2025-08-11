@@ -1,0 +1,29 @@
+p {
+    font-size: 30px;
+    color: rgb(199, 219, 225);
+}
+
+
+
+.headings {
+    color: rgb(35, 225, 206);
+}
+
+#intro {
+    border: solid;
+    border-color: rgb(181, 19, 114);
+    border-width: 5px;
+}
+
+* {
+    padding: 15px;
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    background-color: rgb(198, 45, 185);
+}
+
+body {
+    border: outset;
+    border-width: 3px;
+}
